@@ -1,6 +1,9 @@
 # challenge-google-foobar
 
-Hey Guys this is Shrikant Pawar. Thanks for stopping by.
+Hey Guys,
+
+This is **Shrikant Pawar**. Thanks for stopping by.
+
 This is my way to give back to fellow nerds, to help them understand google coding challenges.
 Recently, I have received a coding challenge from google. This is to help others to get an idea of this. 
 
