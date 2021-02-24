@@ -5,10 +5,10 @@ Hey Guys,
 This is **Shrikant Pawar**. Thanks for stopping by.
 
 This is my way to give back to fellow nerds, to help them understand google coding challenges.
-Recently, I have received a coding challenge from google. This is to help others to get an idea of this. 
+Recently, I have received a coding challenge from google.
 
-It started when I was browsing something on google and a notification came which asked if I was interested in solving it.
-When I clicked yes, I am interested.
+It all started when I was browsing something related to Java 8 JVM on google and a notification popped up, asking if I was interested in solving coding challenges.
+When I clicked "yes, I am interested".
 I was redirected to https://foobar.withgoogle.com/
 
 What is it?
